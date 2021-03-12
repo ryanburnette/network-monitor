@@ -16,5 +16,9 @@ Let's keep it simple.
   - check certificate/expiration
   - option to check smb
   - what other services do we need?
+- Database history
+- Async interface
+- Jobs queue (check and alert)
+- Email alerts
 
 [1]: https://github.com/ryanburnette/network-monitor
